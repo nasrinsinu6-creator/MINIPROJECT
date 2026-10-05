@@ -1,0 +1,203 @@
+id,destination_id,name,description,entry_fee,visit_time
+1,1,Eravikulam National Park,"Protected mountain park famous for Nilgiri Tahr, rolling grasslands, and scenic Western Ghats landscapes.",200.0,3 Hours
+2,1,Mattupetty Dam,"Scenic dam surrounded by tea plantations and mountains, offering boating and beautiful lake views.",50.0,2 Hours
+3,1,Anamudi Peak,"Highest peak in South India, surrounded by spectacular mountain scenery and trekking routes.",100.0,4 Hours
+4,1,Tea Museum,"Museum showcasing the history, cultivation, processing, and evolution of tea production in Munnar.",125.0,2 Hours
+5,1,Top Station,"High-altitude viewpoint offering panoramic views of the Western Ghats and surrounding valleys.",40.0,2 Hours
+6,2,Edakkal Caves,"Ancient rock shelters featuring prehistoric carvings and inscriptions.",80.0,3 Hours
+7,2,Chembra Peak,"Popular trekking destination known for mountain scenery and the heart-shaped lake.",50.0,5 Hours
+8,2,Soochipara Waterfalls,"Three-tiered waterfall surrounded by forests and rocky landscapes.",50.0,3 Hours
+9,2,Banasura Sagar Dam,"Large earth dam surrounded by hills and reservoirs, offering boating and scenic views.",40.0,2 Hours
+10,2,Kuruva Island,"Protected river island known for bamboo forests, streams, bridges, and nature walks.",100.0,3 Hours
+11,3,Vembanad Lake Houseboats,"Houseboat experience through Kerala's extensive backwaters, canals, and village landscapes.",1500.0,6 Hours
+12,3,Alappuzha Beach,"Popular coastal attraction known for its long sandy beach and Arabian Sea views.",0.0,2 Hours
+13,3,Alappuzha Lighthouse,"Historic lighthouse offering views of the coastline and surrounding city.",20.0,1 Hour
+14,3,Pathiramanal Island,"Small scenic island in Vembanad Lake known for birds and peaceful natural surroundings.",100.0,3 Hours
+15,4,Papanasam Beach Cliff,"Natural red cliffs overlooking the Arabian Sea and Varkala Beach.",0.0,3 Hours
+16,4,Janardanaswamy Temple,"Historic Vishnu temple and important pilgrimage attraction near Varkala.",0.0,1 Hour
+17,4,Sivagiri Mutt,"Spiritual and cultural center associated with Sree Narayana Guru.",0.0,2 Hours
+18,4,Kappil Beach,"Scenic coastal attraction where the backwaters meet the Arabian Sea.",0.0,2 Hours
+19,5,Fort Kochi Chinese Fishing Nets,"Iconic traditional fishing structures along the Fort Kochi waterfront.",0.0,1 Hour
+20,5,Mattancherry Dutch Palace,"Historic palace displaying Kerala murals, royal collections, and cultural artifacts.",20.0,2 Hours
+21,5,Jewish Synagogue,"Historic synagogue in Mattancherry known for its architecture and heritage.",5.0,1 Hour
+22,5,St Francis Church,"Historic European church and one of the oldest European-built churches in India.",0.0,1 Hour
+23,6,Periyar Lake Boating,"Boat safari through the Periyar wildlife sanctuary with opportunities to observe wildlife.",250.0,2.5 Hours
+24,6,Jungle Bamboo Rafting,"Adventure activity combining forest trekking and bamboo rafting through the reserve.",1800.0,6 Hours
+25,6,Periyar Tiger Reserve,"Protected wildlife area famous for forests, elephants, tigers, and diverse wildlife.",500.0,4 Hours
+26,6,Spice Plantation,"Guided plantation experience showcasing cardamom, pepper, cinnamon, and other spices.",200.0,2 Hours
+27,7,Kovalam Lighthouse,"Historic lighthouse offering panoramic views of Kovalam beach and the Arabian Sea.",20.0,1 Hour
+28,7,Lighthouse Beach,"Popular sandy beach known for swimming, relaxation, and coastal views.",0.0,2 Hours
+29,7,Hawa Beach,"Scenic beach surrounded by palm trees and coastal resorts.",0.0,2 Hours
+30,7,Vellayani Lake,"Freshwater lake surrounded by greenery and peaceful village landscapes.",0.0,2 Hours
+31,8,Kumarakom Bird Sanctuary,"Bird sanctuary on the banks of Vembanad Lake, popular for migratory and resident birds.",100.0,3 Hours
+32,8,Vembanad Lake,"Large lake offering boating, fishing, houseboat experiences, and scenic backwater views.",500.0,3 Hours
+33,8,Kumarakom Backwaters,"Peaceful network of canals and waterways surrounded by coconut trees and villages.",500.0,3 Hours
+34,8,Pathiramanal Island,"Small island in Vembanad Lake known for bird watching and natural scenery.",100.0,3 Hours
+35,9,Bekal Fort,"Large historic seaside fort offering panoramic views of the Arabian Sea.",40.0,2 Hours
+36,9,Bekal Beach,"Scenic beach located near Bekal Fort with views of the Arabian Sea.",0.0,2 Hours
+37,9,Kappil Beach Kasaragod,"Quiet coastal attraction surrounded by greenery and Arabian Sea views.",0.0,2 Hours
+38,9,Ranipuram Hills,"Mountain landscape with grasslands, forests, trekking trails, and panoramic viewpoints.",0.0,4 Hours
+39,10,Vagamon Pine Forest,"Popular scenic attraction surrounded by tall pine trees and misty hills.",0.0,2 Hours
+40,10,Vagamon Meadows,"Green rolling meadows ideal for sightseeing, photography, and relaxation.",0.0,2 Hours
+41,10,Vagamon Lake,"Peaceful lake surrounded by hills and greenery, suitable for boating and recreation.",100.0,2 Hours
+42,10,Vagamon Adventure Park,"Outdoor recreation area offering adventure activities and scenic hill views.",300.0,3 Hours
+43,11,Sree Padmanabhaswamy Temple,"Famous historic temple dedicated to Lord Padmanabha and known for its Dravidian architecture.",0.0,2 Hours
+44,11,Napier Museum,"Historic museum displaying Kerala art, archaeological objects, and cultural collections.",20.0,2 Hours
+45,11,Kovalam Beach,"Major coastal attraction near the capital known for beaches, resorts, and lighthouse views.",0.0,3 Hours
+46,11,Kuthira Malika Palace,"Historic palace displaying traditional Kerala architecture and royal collections.",20.0,2 Hours
+47,12,Poovar Beach,"Scenic golden-sand beach where the river and Arabian Sea meet.",0.0,2 Hours
+48,12,Poovar Backwaters,"Peaceful backwater area offering boat rides through mangroves and waterways.",500.0,2 Hours
+49,12,Golden Sand Beach,"Beautiful sandy coastal attraction surrounded by coconut palms and waterways.",0.0,2 Hours
+50,12,Poovar Island,"Scenic island destination accessible by boat and surrounded by backwaters.",500.0,3 Hours
+51,13,Ponmudi Hills,"Misty hill attraction known for winding roads, viewpoints, forests, and cool climate.",0.0,3 Hours
+52,13,Golden Valley,"Scenic valley with streams, forests, and mountain landscapes near Ponmudi.",0.0,2 Hours
+53,13,Kallar River,"Natural attraction known for clear streams, rocky landscapes, and forest surroundings.",0.0,2 Hours
+54,13,Peppara Wildlife Sanctuary,"Forest sanctuary supporting wildlife, birds, rivers, and diverse vegetation.",50.0,4 Hours
+55,14,Ashtamudi Lake,"Extensive backwater lake famous for houseboats, waterways, and scenic landscapes.",500.0,3 Hours
+56,14,Kollam Beach,"Popular beach known for its long coastline, sunsets, and Arabian Sea views.",0.0,2 Hours
+57,14,Thangassery Lighthouse,"Historic lighthouse overlooking the Arabian Sea and Kollam coastline.",20.0,1 Hour
+58,14,Ashtamudi Backwaters,"Network of waterways surrounded by coconut palms, villages, and wetlands.",500.0,3 Hours
+59,15,Munroe Island Backwaters,"Scenic island network of canals and waterways surrounded by village landscapes.",500.0,3 Hours
+60,15,Kallada River,"River attraction offering canoe rides, scenic views, and peaceful natural surroundings.",300.0,2 Hours
+61,15,Munroe Island Canoeing,"Traditional canoe experience through narrow canals and village waterways.",600.0,2 Hours
+62,15,Munroe Island Village,"Village attraction showcasing local life, coconut plantations, and backwater culture.",0.0,2 Hours
+63,16,Thenmala Dam,"Reservoir surrounded by forests and hills, popular for scenic views and recreation.",0.0,2 Hours
+64,16,Thenmala Eco Park,"Eco-tourism park featuring gardens, walking trails, and recreational facilities.",50.0,3 Hours
+65,16,Shenduruney Wildlife Sanctuary,"Protected forest area known for biodiversity, wildlife, and natural landscapes.",100.0,4 Hours
+66,16,Thenmala Adventure Zone,"Adventure area offering outdoor activities and nature-based recreation.",300.0,3 Hours
+67,17,Illikkal Kallu,"Rocky mountain attraction offering panoramic views of surrounding hills and valleys.",20.0,3 Hours
+68,17,Elaveezhapoonchira,"Scenic hill destination known for vast grasslands, sunrise, sunset, and valley views.",0.0,3 Hours
+69,17,Kumarakom Backwaters,"Peaceful backwater attraction surrounded by villages, canals, and coconut palms.",500.0,3 Hours
+70,17,Vagamon Hills,"Nearby highland attraction featuring meadows, forests, and misty mountain scenery.",0.0,3 Hours
+71,18,Vaikom Mahadeva Temple,"Historic temple and major pilgrimage attraction dedicated to Lord Shiva.",0.0,2 Hours
+72,18,Vembanad Lake,"Large backwater lake offering scenic views, boating, and peaceful surroundings.",500.0,3 Hours
+73,18,Vaikom Backwaters,"Waterways around Vaikom known for village scenery and traditional Kerala landscapes.",300.0,2 Hours
+74,18,Thanneermukkom Bund,"Major barrier structure across Vembanad Lake surrounded by scenic backwaters.",0.0,2 Hours
+75,19,Idukki Dam,"Famous arch dam surrounded by mountains and reservoirs in the Western Ghats.",25.0,2 Hours
+76,19,Idukki Wildlife Sanctuary,"Protected forest and reservoir area supporting wildlife and scenic landscapes.",50.0,4 Hours
+77,19,Cheruthoni Dam,"Major dam near Idukki offering scenic reservoir and mountain views.",0.0,1 Hour
+78,19,Kalvari Mount,"Hill viewpoint offering panoramic views of the Idukki reservoir and surrounding mountains.",20.0,3 Hours
+79,20,Ramakkalmedu Viewpoint,"Mountain viewpoint offering panoramic views of Tamil Nadu plains and surrounding hills.",0.0,2 Hours
+80,20,Kuravan and Kurathi Statue,"Famous landmark representing tribal legends and offering scenic mountain views.",0.0,1 Hour
+81,20,Ramakkalmedu Hills,"Windy hill landscape suitable for trekking, photography, and sightseeing.",0.0,3 Hours
+82,20,Wind Farm,"Scenic area featuring wind turbines across the mountain landscape.",0.0,2 Hours
+83,21,Marayoor Sandalwood Forests,"Natural attraction known for sandalwood forests and mountain landscapes.",0.0,3 Hours
+84,21,Marayoor Dolmens,"Ancient stone burial structures located among the Marayoor hills.",0.0,2 Hours
+85,21,Thoovanam Waterfalls,"Scenic waterfall surrounded by forests near the Chinnar region.",20.0,3 Hours
+86,21,Chinnar Wildlife Sanctuary,"Protected wildlife area known for dry forests, wildlife, trekking, and biodiversity.",100.0,4 Hours
+87,22,Kanthalloor Fruit Farms,"Highland farms producing fruits and vegetables in the cool mountain climate.",50.0,2 Hours
+88,22,Kanthalloor Waterfalls,"Scenic waterfall attraction surrounded by forests and mountain landscapes.",0.0,2 Hours
+89,22,Pattisseri Dam,"Reservoir attraction surrounded by hills and agricultural landscapes.",0.0,2 Hours
+90,22,Anamudi Shola National Park,"Protected shola forest area known for biodiversity and mountain ecosystems.",100.0,4 Hours
+91,23,Kuttikkanam,"Scenic highland area surrounded by tea plantations, forests, and misty hills.",0.0,2 Hours
+92,23,Grampi,"Mountain viewpoint offering panoramic views of valleys and plantation landscapes.",0.0,2 Hours
+93,23,Parunthumpara,"Popular viewpoint known for dramatic mountain scenery and expansive valley views.",0.0,2 Hours
+94,23,Peeru Hills,"Green hill attraction known for trekking, viewpoints, and plantation scenery.",0.0,3 Hours
+95,24,Aranmula,"Cultural village famous for traditional boat races, crafts, and heritage.",0.0,3 Hours
+96,24,Konni Elephant Training Centre,"Wildlife attraction known for elephant care, training, and conservation activities.",50.0,2 Hours
+97,24,Perunthenaruvi Waterfall,"Scenic waterfall surrounded by rocky landscapes and forests.",0.0,2 Hours
+98,24,Pandalam Palace,"Historic palace associated with the royal heritage of Pandalam.",0.0,2 Hours
+99,25,Gavi Lake,"Scenic forest lake surrounded by hills and wildlife-rich forests.",500.0,3 Hours
+100,25,Gavi Wildlife Sanctuary,"Protected forest area offering wildlife viewing, trekking, boating, and nature experiences.",500.0,5 Hours
+101,25,Kochu Pamba,"Forest attraction known for scenic streams, greenery, and peaceful surroundings.",0.0,2 Hours
+102,25,Green Mansion,"Forest-side eco-tourism attraction surrounded by the Gavi landscape.",500.0,2 Hours
+103,26,Konni Elephant Camp,"Elephant conservation and training center surrounded by forest landscapes.",50.0,2 Hours
+104,26,Adavi Eco Tourism,"Forest tourism destination offering coracle rides and nature experiences.",300.0,3 Hours
+105,26,Kallar River,"Natural river attraction surrounded by forests and rocky landscapes.",0.0,2 Hours
+106,26,Achankovil Forest,"Forest region known for biodiversity, streams, wildlife, and trekking.",100.0,4 Hours
+107,27,Guruvayur Temple,"Major pilgrimage temple dedicated to Lord Krishna and one of Kerala's important spiritual destinations.",0.0,2 Hours
+108,27,Punnathur Kotta,"Historic elephant palace where temple elephants are cared for and trained.",20.0,2 Hours
+109,27,Mammiyoor Temple,"Important Shiva temple located close to Guruvayur Temple.",0.0,1 Hour
+110,27,Chavakkad Beach,"Coastal attraction near Guruvayur known for its beach and fishing culture.",0.0,2 Hours
+111,28,Vadakkunnathan Temple,"Historic temple complex in the center of Thrissur and an important cultural landmark.",0.0,2 Hours
+112,28,Thrissur Zoo,"Zoo and museum complex featuring animals, birds, and cultural collections.",20.0,3 Hours
+113,28,Kerala Kalamandalam,"Major center for traditional Kerala performing arts and classical training.",100.0,3 Hours
+114,28,Shakthan Thampuran Palace,"Historic palace and museum showcasing the cultural history of Thrissur.",20.0,2 Hours
+115,29,Athirappilly Waterfalls,"Famous waterfall cascading through dense forests and rocky landscapes.",50.0,3 Hours
+116,29,Vazhachal Waterfalls,"Scenic waterfall surrounded by dense rainforest and the Chalakudy River.",20.0,2 Hours
+117,29,Thumboormuzhy Dam,"River attraction known for gardens, hanging bridge, and scenic water views.",30.0,2 Hours
+118,29,Charpa Falls,"Seasonal waterfall located along the Chalakudy River route.",0.0,1 Hour
+119,30,Chavakkad Beach,"Popular coastal attraction known for sandy shores, fishing activities, and sunsets.",0.0,2 Hours
+120,30,Manathala Beach,"Peaceful coastal area near Chavakkad with fishing and local village scenery.",0.0,2 Hours
+121,30,Guruvayur Temple,"Major pilgrimage attraction located close to Chavakkad.",0.0,2 Hours
+122,30,Mammiyoor Temple,"Historic temple near Guruvayur associated with traditional Kerala worship.",0.0,1 Hour
+123,31,Palakkad Fort,"Historic fort built with strong laterite walls and surrounded by a landscaped area.",20.0,2 Hours
+124,31,Malampuzha Dam,"Large reservoir surrounded by gardens, hills, and recreational attractions.",30.0,3 Hours
+125,31,Malampuzha Garden,"Popular garden featuring sculptures, landscaped areas, and recreational spaces.",30.0,2 Hours
+126,31,Parambikulam Wildlife Sanctuary,"Protected forest destination known for wildlife, reservoirs, and biodiversity.",100.0,4 Hours
+127,32,Nelliyampathy Hills,"Mountain destination offering scenic viewpoints, plantations, and forest landscapes.",0.0,3 Hours
+128,32,Pothundy Dam,"Scenic reservoir surrounded by hills and plantations.",20.0,2 Hours
+129,32,Seetharkundu Viewpoint,"Viewpoint offering panoramic views of Palakkad plains and surrounding mountains.",0.0,2 Hours
+130,32,Kesavan Para,"Scenic rocky viewpoint known for panoramic mountain and valley views.",0.0,2 Hours
+131,33,Sairandhri,"Main visitor area of Silent Valley National Park surrounded by pristine rainforest.",50.0,3 Hours
+132,33,Kunthi River,"Forest river flowing through the Silent Valley landscape.",0.0,2 Hours
+133,33,Silent Valley Watchtower,"Viewpoint for observing the dense rainforest and surrounding mountain landscape.",50.0,2 Hours
+134,33,Silent Valley National Park,"Pristine rainforest ecosystem known for biodiversity and endemic wildlife.",100.0,5 Hours
+135,34,Parambikulam Tiger Reserve,"Protected forest landscape known for tigers, elephants, biodiversity, and eco-tourism.",100.0,5 Hours
+136,34,Parambikulam Dam,"Reservoir surrounded by forests and mountain landscapes.",20.0,2 Hours
+137,34,Thunakadavu Dam,"Scenic reservoir located within the Parambikulam forest region.",20.0,2 Hours
+138,34,Parambikulam Wildlife Safari,"Guided wildlife experience through the protected forest landscape.",500.0,4 Hours
+139,35,Nilambur Teak Museum,"Museum dedicated to teak, forestry, timber history, and plantation development.",20.0,2 Hours
+140,35,Conolly's Plot,"Historic teak plantation and forest attraction near Nilambur.",20.0,2 Hours
+141,35,Adyanpara Waterfalls,"Scenic waterfall surrounded by rocky terrain and forest landscapes.",0.0,2 Hours
+142,35,Nedumkayam Rainforest,"Dense forest area offering scenic trails and wildlife-rich surroundings.",100.0,4 Hours
+143,36,Kottakkal Arya Vaidya Sala,"Historic Ayurveda center associated with traditional Kerala medicine.",0.0,2 Hours
+144,36,Kottakkunnu,"Hilltop recreational attraction offering views, gardens, and family activities.",20.0,2 Hours
+145,36,Tirur Thunchan Parambu,"Cultural attraction associated with Malayalam literary heritage.",10.0,2 Hours
+146,36,Malappuram Kottakkunnu,"Scenic hill attraction overlooking the Malappuram town area.",20.0,2 Hours
+147,37,Kozhikode Beach,"Popular beach known for sunsets, coastline views, and local food culture.",0.0,2 Hours
+148,37,Mananchira Square,"Historic urban park surrounding the Mananchira pond in central Kozhikode.",0.0,2 Hours
+149,37,Beypore Port,"Historic port area associated with maritime trade and traditional shipbuilding.",0.0,2 Hours
+150,37,Kappad Beach,"Historic coastal attraction known for its beach and maritime heritage.",0.0,2 Hours
+151,38,Kappad Beach,"Scenic beach with historical importance and peaceful coastal surroundings.",0.0,2 Hours
+152,38,Kappad Backwaters,"Backwater landscapes around the Kappad coastal region.",300.0,2 Hours
+153,38,Kadalundi Bird Sanctuary,"Wetland attraction known for migratory birds, mangroves, and estuary landscapes.",50.0,3 Hours
+154,38,Koyilandy Beach,"Quiet coastal attraction offering sandy shores and Arabian Sea views.",0.0,2 Hours
+155,39,Beypore Beach,"Coastal attraction known for harbour views, fishing culture, and sunsets.",0.0,2 Hours
+156,39,Beypore Pulimuttu,"Long stone walkway extending into the sea and offering coastal views.",0.0,2 Hours
+157,39,Uru Building Yard,"Traditional shipbuilding area famous for large wooden sailing vessels.",0.0,2 Hours
+158,39,Beypore Harbour,"Historic harbour showcasing fishing boats and maritime activities.",0.0,2 Hours
+159,40,Thusharagiri Waterfalls,"Series of waterfalls surrounded by forests and mountain streams.",30.0,3 Hours
+160,40,Erachery Waterfalls,"Scenic waterfall attraction located among forested hills.",0.0,2 Hours
+161,40,Vythiri Hills,"Nearby mountain landscape offering forests, streams, and trekking opportunities.",0.0,3 Hours
+162,40,Thusharagiri Trekking Trails,"Forest trekking routes passing waterfalls, streams, and mountain landscapes.",100.0,4 Hours
+163,41,St Angelo Fort,"Historic seaside fort offering views of Kannur coastline and Arabian Sea.",20.0,2 Hours
+164,41,Kannur Beach,"Popular coastal attraction known for sandy shores and Arabian Sea sunsets.",0.0,2 Hours
+165,41,Payyambalam Beach,"Scenic beach known for long sandy shores and peaceful surroundings.",0.0,2 Hours
+166,41,Aralam Wildlife Sanctuary,"Protected forest area known for wildlife, trekking, and Western Ghats landscapes.",50.0,4 Hours
+167,42,Muzhappilangad Drive-in Beach,"Long beach where visitors can drive along the sandy shoreline.",0.0,3 Hours
+168,42,Dharmadam Island,"Small scenic island surrounded by the Arabian Sea and coastal greenery.",0.0,2 Hours
+169,42,Thalassery Fort,"Historic fort overlooking the Arabian Sea and reflecting colonial heritage.",20.0,2 Hours
+170,42,Meenkunnu Beach,"Quiet coastal attraction known for golden sand and peaceful surroundings.",0.0,2 Hours
+171,43,Thalassery Fort,"Historic fort associated with colonial Malabar and coastal heritage.",20.0,2 Hours
+172,43,Thalassery Pier,"Historic seaside walkway offering Arabian Sea views and sunset scenery.",0.0,1 Hour
+173,43,Odathil Palli,"Historic mosque known for traditional architecture and cultural significance.",0.0,1 Hour
+174,43,Muzhappilangad Beach,"Nearby drive-in beach famous for coastal views and recreational activities.",0.0,3 Hours
+175,44,Paithalmala Viewpoint,"Mountain viewpoint offering panoramic views of the Western Ghats and surrounding valleys.",0.0,3 Hours
+176,44,Paithalmala Trekking Trail,"Forest trekking route through grasslands and misty mountain landscapes.",0.0,5 Hours
+177,44,Kappimala Waterfalls,"Scenic waterfall surrounded by forested hills and streams.",0.0,2 Hours
+178,44,Ezhimala Hills,"Historic coastal hill landscape with panoramic views of the Arabian Sea.",0.0,3 Hours
+179,45,Bekal Fort,"Historic seaside fort offering panoramic Arabian Sea views.",40.0,2 Hours
+180,45,Bekal Beach,"Scenic beach located beside the famous Bekal Fort.",0.0,2 Hours
+181,45,Ananthapura Lake Temple,"Historic temple situated in the middle of a lake and surrounded by greenery.",0.0,2 Hours
+182,45,Ranipuram Hills,"Scenic highland attraction known for trekking, grasslands, and forests.",0.0,4 Hours
+183,46,Ranipuram Hills,"Popular hill station known for trekking trails, grasslands, forests, and misty scenery.",0.0,4 Hours
+184,46,Ranipuram Trekking Trail,"Trekking route through forests and grasslands with panoramic mountain views.",0.0,4 Hours
+185,46,Kottancheri Hills,"Scenic mountain attraction surrounded by forests and plantation landscapes.",0.0,3 Hours
+186,46,Bhagamandala Viewpoint,"Mountain viewpoint offering expansive views across the Western Ghats.",0.0,2 Hours
+187,47,Nileshwaram Palace,"Historic cultural attraction associated with the traditional royal heritage of Nileshwaram.",0.0,2 Hours
+188,47,Nileshwaram Backwaters,"Peaceful waterways surrounded by coconut groves and village landscapes.",300.0,2 Hours
+189,47,Thekkekara Beach,"Quiet coastal attraction with scenic Arabian Sea views.",0.0,2 Hours
+190,47,Nileshwaram Kavu,"Traditional sacred grove and cultural attraction associated with local rituals and Theyyam.",0.0,2 Hours
+191,48,Kodikuthimala Viewpoint,"Hilltop viewpoint offering panoramic views of Malappuram's green countryside.",0.0,2 Hours
+192,48,Kodikuthimala Trekking Trail,"Scenic trekking route through grasslands and forested hills.",0.0,3 Hours
+193,48,Kodikuthimala Hills,"Green hill landscape suitable for hiking, photography, and sightseeing.",0.0,2 Hours
+194,48,Malappuram Viewpoint,"Panoramic viewpoint overlooking surrounding valleys and countryside.",0.0,2 Hours
+195,49,Attappady Hills,"Mountain landscape known for forests, valleys, tribal culture, and biodiversity.",0.0,3 Hours
+196,49,Attappady Reserve Forest,"Forest region offering wildlife, trekking, and nature experiences.",100.0,4 Hours
+197,49,Agali Viewpoint,"Scenic viewpoint overlooking the Attappady valley and surrounding hills.",0.0,2 Hours
+198,49,Bhavani River,"River flowing through the Attappady landscape, surrounded by hills and forests.",0.0,2 Hours
+199,50,Tanur Beach,"Coastal attraction known for sandy beaches, fishing villages, and Arabian Sea views.",0.0,2 Hours
+200,50,Tanur Fishing Harbour,"Traditional fishing harbour showcasing local coastal life and fishing activities.",0.0,2 Hours
+201,50,Tanur Backwaters,"Scenic waterways and estuaries surrounded by coconut groves and villages.",300.0,2 Hours
+202,50,Othukkungal Beach,"Quiet coastal area offering peaceful beach scenery and Arabian Sea views.",0.0,2 Hours

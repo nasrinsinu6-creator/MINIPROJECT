@@ -1,0 +1,254 @@
+destination_id,name,hotel_type,price_per_night,rating,address,total_rooms,available_rooms,amenities,room_type,booking_url,id
+1,Tea Valley Resort,Resort,3500.0,4.5,"Chithirapuram, Munnar",20,14,"Free Wifi, Campfire, Restaurant, Tea Garden Tour",Cottage,https://www.teavalleyresort.com,1
+1,Munnar Castle,Hotel,1800.0,4.0,Munnar Town,30,8,"Free Wifi, LED TV, Room Service, Tour Desk",Deluxe Room,https://www.munnarcastle.com,2
+1,The Panoramic Getaway,Luxury Resort,8500.0,4.8,"Chithirapuram Power House, Munnar",45,12,"Heated Pool, Spa, Helipad, Multi-cuisine Dining",Executive Suite,https://www.panoramicgetaway.com,3
+1,Blanket Hotel & Spa,Luxury Resort,9200.0,4.9,"Attukad Waterfall Road, Munnar",36,10,"Waterfall View Pool, Spa, Gym, Recreation Center",Honeymoon Suite,https://www.blankethotel.com,4
+1,Kaivalyam Wellness Retreat,Eco Resort,4800.0,4.7,"Moolakada, Munnar",18,7,"Yoga Classes, Organic Farm, Tea Gardens, Spa",Tree House,https://www.kaivalyam.com,5
+1,Munnar Green Hill Homestay,Homestay,1200.0,4.3,"Devikulam Road, Munnar",8,4,"Home Cooked Food, Wifi, Mountain View",Standard Double,https://www.munnargreenhill.example.com,6
+2,Vythiri Village Resort,Luxury Resort,7500.0,4.7,"Vythiri, Wayanad",40,25,"Pool, Spa, Wifi, Trekking, Zip-line",Luxury Villa,https://www.vythirivillage.com,7
+2,Green Gates Hotel,Hotel,2200.0,4.1,"Kalpetta, Wayanad",25,12,"Gym, Restaurant, Wifi, Swimming Pool",Standard AC Room,https://www.greengateshotel.com,8
+2,Pepper Trail Resort,Heritage Resort,8800.0,4.8,"Sulthan Bathery, Wayanad",15,6,"200-yr Colonial Bungalow, Tree Houses, Pool, Spa",Heritage Suite,https://www.peppertrail.in,9
+2,Banasura Hill Resort,Eco Resort,6400.0,4.6,"Vellamunda, Wayanad",28,11,"Earthen Architecture, Waterfall, Ayurvedic Spa",Earth Villa,https://www.banasura.com,10
+2,LakeRose Wayanad Resort,Boutique Resort,5200.0,4.7,"Karapuzha Dam, Wayanad",20,9,"Lake View, Pool, Water Sports, Barbecue",Lake View Room,https://www.lakerosewayanad.com,11
+2,Wayanad Coffee Trail Stay,Homestay,1400.0,4.4,"Meppadi, Wayanad",10,6,"Plantation Walk, Campfire, Homemade Meals",Deluxe Plantation Room,https://www.wayanadcoffeetrail.example.com,12
+3,Lake Palace Backwater Resort,Resort,9000.0,4.8,"Thathampally, Alleppey",15,3,"Lake View, Pool, Spa, Houseboat cruises",Premium Lake View Cottage,https://www.lakepalaceresort.com,13
+3,Zostel Alappuzha,Hostel,800.0,4.4,Alleppey Beach Road,10,6,"Wifi, Cafe, Locker, Beach Front",Dormitory Bed,https://www.zostel.com/zostel/alappuzha/,14
+3,Marari Beach Resort CGH Earth,Luxury Resort,12500.0,4.9,"Mararikulam, Alleppey",62,18,"Private Beach Access, Organic Farm, Ayurveda Spa",Garden Villa,https://www.cghearth.com/marari-beach,15
+3,Ramada by Wyndham Alleppey,Hotel,5500.0,4.5,"Vembanad Lakefront, Alleppey",120,35,"Rooftop Pool, Spa, Fitness Center, Multiple Restaurants",Presidential Lake Room,https://www.wyndhamhotels.com/ramada,16
+3,Venice Premium Houseboats,Houseboat,8500.0,4.7,"Punnamada Jetty, Alleppey",5,2,"Full Board Meals, AC Bedroom, Private Sun Deck",1-Bedroom Deluxe Houseboat,https://www.venicehouseboats.example.com,17
+3,Alleppey Backwater Homestay,Homestay,1500.0,4.3,"Kuttanad, Alleppey",6,4,"Canoe Tours, Fresh Fish Curry Meals, Fishing",Standard Waterfront Room,https://www.alleppeyhomestay.example.com,18
+4,Clifftoten Resort,Resort,3200.0,4.3,"North Cliff, Varkala",15,9,"Sea View, Wifi, Cafe, Yoga",Sea Breeze Room,https://www.clifftoten.com,19
+4,Gateway Varkala IHCL SeleQtions,Luxury Hotel,8200.0,4.7,"Janardhanapuram, Varkala",30,14,"Cliffside Pool, Tennis Court, Ayurveda Center",Executive Sea View Room,https://www.seleqtionshotels.com,20
+4,B'Canti Boutique Resort,Boutique Resort,6500.0,4.6,"Odayam Beach, Varkala",24,8,"Beachfront Pool, Multi-Cuisine Dining, Spa",Deluxe Sea Facing Room,https://www.bcantiresort.com,21
+4,InDa Hotel,Boutique Hotel,2400.0,4.5,"Helipad Road, Varkala",12,5,"Garden Cafe, Yoga Shala, Free High-speed Wifi",Garden Double Room,https://www.indahotelvarkala.com,22
+4,Varkala Cliff Backpackers Stay,Hostel,950.0,4.2,"North Cliff, Varkala",14,7,"Rooftop Terrace, Surfboard Rental, Chill Area",AC Dorm Bed,https://www.varkalabackpackers.example.com,23
+5,Brunton Boatyard CGH Earth,Luxury Hotel,12000.0,4.9,Fort Kochi,22,11,"Historic Architecture, Swimming Pool, High-end Dining",Heritage Suite,https://www.cghearth.com/brunton-boatyard,24
+5,Fort House Hotel,Boutique Hotel,2500.0,4.2,Fort Kochi,18,4,"Wifi, Waterfront Dining, Garden",Standard Double,https://www.forthousehotel.com,25
+5,Grand Hyatt Kochi Bolgatty,Luxury Hotel,11500.0,4.8,"Bolgatty Island, Kochi",235,60,"Waterfront Views, Marina, Spa, Indoor & Outdoor Pools",Club King Room,https://www.hyatt.com/grand-hyatt/kochi,26
+5,Old Harbour Hotel,Heritage Hotel,9500.0,4.7,"Tower Road, Fort Kochi",13,3,"300-year-old Colonial Building, Garden Pool, Seafood Restaurant",Garden Cottage,https://www.oldharbourhotel.com,27
+5,Hostel 51 Fort Kochi,Hostel,750.0,4.3,"Burgher Street, Fort Kochi",12,8,"Bicycle Rental, Free Wifi, Common Lounge",Dormitory Bed,https://www.hostel51kochi.example.com,28
+6,Thekkady Palace & Spa,Luxury Resort,3150.0,4.8,"Kumily, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.thekkadystay1.example.com,29
+6,Thekkady Valley Resort,Resort,1980.0,4.5,"Kumily, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.thekkadystay2.example.com,30
+6,Thekkady Grand Hotel,Hotel,1260.0,4.2,"Kumily, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.thekkadystay3.example.com,31
+6,The Thekkady Heritage Inn,Boutique Hotel,1620.0,4.4,"Kumily, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.thekkadystay4.example.com,32
+6,Thekkady Plantation Homestay,Homestay,1000.0,4.6,"Kumily, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.thekkadystay5.example.com,33
+7,Kovalam Palace & Spa,Luxury Resort,2450.0,4.8,"Thiruvananthapuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kovalamstay1.example.com,34
+7,Kovalam Valley Resort,Resort,1540.0,4.5,"Thiruvananthapuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kovalamstay2.example.com,35
+7,Kovalam Grand Hotel,Hotel,1000.0,4.2,"Thiruvananthapuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kovalamstay3.example.com,36
+7,The Kovalam Heritage Inn,Boutique Hotel,1260.0,4.4,"Thiruvananthapuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kovalamstay4.example.com,37
+7,Kovalam Plantation Homestay,Homestay,1000.0,4.6,"Thiruvananthapuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kovalamstay5.example.com,38
+8,Kumarakom Palace & Spa,Luxury Resort,3150.0,4.8,"Kottayam, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kumarakomstay1.example.com,39
+8,Kumarakom Valley Resort,Resort,1980.0,4.5,"Kottayam, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kumarakomstay2.example.com,40
+8,Kumarakom Grand Hotel,Hotel,1260.0,4.2,"Kottayam, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kumarakomstay3.example.com,41
+8,The Kumarakom Heritage Inn,Boutique Hotel,1620.0,4.4,"Kottayam, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kumarakomstay4.example.com,42
+8,Kumarakom Plantation Homestay,Homestay,1000.0,4.6,"Kottayam, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kumarakomstay5.example.com,43
+9,Bekal Palace & Spa,Luxury Resort,2100.0,4.8,"Kasaragod, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.bekalstay1.example.com,44
+9,Bekal Valley Resort,Resort,1320.0,4.5,"Kasaragod, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.bekalstay2.example.com,45
+9,Bekal Grand Hotel,Hotel,1000.0,4.2,"Kasaragod, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.bekalstay3.example.com,46
+9,The Bekal Heritage Inn,Boutique Hotel,1080.0,4.4,"Kasaragod, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.bekalstay4.example.com,47
+9,Bekal Plantation Homestay,Homestay,1000.0,4.6,"Kasaragod, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.bekalstay5.example.com,48
+10,Vagamon Palace & Spa,Luxury Resort,2450.0,4.8,"Idukki, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.vagamonstay1.example.com,49
+10,Vagamon Valley Resort,Resort,1540.0,4.5,"Idukki, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.vagamonstay2.example.com,50
+10,Vagamon Grand Hotel,Hotel,1000.0,4.2,"Idukki, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.vagamonstay3.example.com,51
+10,The Vagamon Heritage Inn,Boutique Hotel,1260.0,4.4,"Idukki, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.vagamonstay4.example.com,52
+10,Vagamon Plantation Homestay,Homestay,1000.0,4.6,"Idukki, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.vagamonstay5.example.com,53
+11,Thiruvananthapuram Palace & Spa,Luxury Resort,2450.0,4.8,"Thiruvananthapuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.thiruvananthapuramstay1.example.com,54
+11,Thiruvananthapuram Valley Resort,Resort,1540.0,4.5,"Thiruvananthapuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.thiruvananthapuramstay2.example.com,55
+11,Thiruvananthapuram Grand Hotel,Hotel,1000.0,4.2,"Thiruvananthapuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.thiruvananthapuramstay3.example.com,56
+11,The Thiruvananthapuram Heritage Inn,Boutique Hotel,1260.0,4.4,"Thiruvananthapuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.thiruvananthapuramstay4.example.com,57
+11,Thiruvananthapuram Plantation Homestay,Homestay,1000.0,4.6,"Thiruvananthapuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.thiruvananthapuramstay5.example.com,58
+12,Poovar Palace & Spa,Luxury Resort,2800.0,4.8,"Thiruvananthapuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.poovarstay1.example.com,59
+12,Poovar Valley Resort,Resort,1760.0,4.5,"Thiruvananthapuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.poovarstay2.example.com,60
+12,Poovar Grand Hotel,Hotel,1120.0,4.2,"Thiruvananthapuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.poovarstay3.example.com,61
+12,The Poovar Heritage Inn,Boutique Hotel,1440.0,4.4,"Thiruvananthapuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.poovarstay4.example.com,62
+12,Poovar Plantation Homestay,Homestay,1000.0,4.6,"Thiruvananthapuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.poovarstay5.example.com,63
+13,Ponmudi Palace & Spa,Luxury Resort,2100.0,4.8,"Thiruvananthapuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.ponmudistay1.example.com,64
+13,Ponmudi Valley Resort,Resort,1320.0,4.5,"Thiruvananthapuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.ponmudistay2.example.com,65
+13,Ponmudi Grand Hotel,Hotel,1000.0,4.2,"Thiruvananthapuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.ponmudistay3.example.com,66
+13,The Ponmudi Heritage Inn,Boutique Hotel,1080.0,4.4,"Thiruvananthapuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.ponmudistay4.example.com,67
+13,Ponmudi Plantation Homestay,Homestay,1000.0,4.6,"Thiruvananthapuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.ponmudistay5.example.com,68
+14,Kollam Palace & Spa,Luxury Resort,2100.0,4.8,"Kollam, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kollamstay1.example.com,69
+14,Kollam Valley Resort,Resort,1320.0,4.5,"Kollam, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kollamstay2.example.com,70
+14,Kollam Grand Hotel,Hotel,1000.0,4.2,"Kollam, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kollamstay3.example.com,71
+14,The Kollam Heritage Inn,Boutique Hotel,1080.0,4.4,"Kollam, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kollamstay4.example.com,72
+14,Kollam Plantation Homestay,Homestay,1000.0,4.6,"Kollam, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kollamstay5.example.com,73
+15,Munroe Island Palace & Spa,Luxury Resort,1750.0,4.8,"Kollam, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.munroeislandstay1.example.com,74
+15,Munroe Island Valley Resort,Resort,1100.0,4.5,"Kollam, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.munroeislandstay2.example.com,75
+15,Munroe Island Grand Hotel,Hotel,1000.0,4.2,"Kollam, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.munroeislandstay3.example.com,76
+15,The Munroe Island Heritage Inn,Boutique Hotel,1000.0,4.4,"Kollam, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.munroeislandstay4.example.com,77
+15,Munroe Island Plantation Homestay,Homestay,1000.0,4.6,"Kollam, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.munroeislandstay5.example.com,78
+16,Thenmala Palace & Spa,Luxury Resort,1750.0,4.8,"Kollam, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.thenmalastay1.example.com,79
+16,Thenmala Valley Resort,Resort,1100.0,4.5,"Kollam, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.thenmalastay2.example.com,80
+16,Thenmala Grand Hotel,Hotel,1000.0,4.2,"Kollam, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.thenmalastay3.example.com,81
+16,The Thenmala Heritage Inn,Boutique Hotel,1000.0,4.4,"Kollam, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.thenmalastay4.example.com,82
+16,Thenmala Plantation Homestay,Homestay,1000.0,4.6,"Kollam, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.thenmalastay5.example.com,83
+17,Kottayam Palace & Spa,Luxury Resort,2100.0,4.8,"Kottayam, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kottayamstay1.example.com,84
+17,Kottayam Valley Resort,Resort,1320.0,4.5,"Kottayam, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kottayamstay2.example.com,85
+17,Kottayam Grand Hotel,Hotel,1000.0,4.2,"Kottayam, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kottayamstay3.example.com,86
+17,The Kottayam Heritage Inn,Boutique Hotel,1080.0,4.4,"Kottayam, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kottayamstay4.example.com,87
+17,Kottayam Plantation Homestay,Homestay,1000.0,4.6,"Kottayam, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kottayamstay5.example.com,88
+18,Vaikom Palace & Spa,Luxury Resort,1400.0,4.8,"Kottayam, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.vaikomstay1.example.com,89
+18,Vaikom Valley Resort,Resort,1000.0,4.5,"Kottayam, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.vaikomstay2.example.com,90
+18,Vaikom Grand Hotel,Hotel,1000.0,4.2,"Kottayam, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.vaikomstay3.example.com,91
+18,The Vaikom Heritage Inn,Boutique Hotel,1000.0,4.4,"Kottayam, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.vaikomstay4.example.com,92
+18,Vaikom Plantation Homestay,Homestay,1000.0,4.6,"Kottayam, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.vaikomstay5.example.com,93
+19,Idukki Palace & Spa,Luxury Resort,2100.0,4.8,"Idukki, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.idukkistay1.example.com,94
+19,Idukki Valley Resort,Resort,1320.0,4.5,"Idukki, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.idukkistay2.example.com,95
+19,Idukki Grand Hotel,Hotel,1000.0,4.2,"Idukki, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.idukkistay3.example.com,96
+19,The Idukki Heritage Inn,Boutique Hotel,1080.0,4.4,"Idukki, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.idukkistay4.example.com,97
+19,Idukki Plantation Homestay,Homestay,1000.0,4.6,"Idukki, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.idukkistay5.example.com,98
+20,Ramakkalmedu Palace & Spa,Luxury Resort,1750.0,4.8,"Idukki, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.ramakkalmedustay1.example.com,99
+20,Ramakkalmedu Valley Resort,Resort,1100.0,4.5,"Idukki, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.ramakkalmedustay2.example.com,100
+20,Ramakkalmedu Grand Hotel,Hotel,1000.0,4.2,"Idukki, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.ramakkalmedustay3.example.com,101
+20,The Ramakkalmedu Heritage Inn,Boutique Hotel,1000.0,4.4,"Idukki, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.ramakkalmedustay4.example.com,102
+20,Ramakkalmedu Plantation Homestay,Homestay,1000.0,4.6,"Idukki, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.ramakkalmedustay5.example.com,103
+21,Marayoor Palace & Spa,Luxury Resort,2100.0,4.8,"Idukki, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.marayoorstay1.example.com,104
+21,Marayoor Valley Resort,Resort,1320.0,4.5,"Idukki, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.marayoorstay2.example.com,105
+21,Marayoor Grand Hotel,Hotel,1000.0,4.2,"Idukki, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.marayoorstay3.example.com,106
+21,The Marayoor Heritage Inn,Boutique Hotel,1080.0,4.4,"Idukki, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.marayoorstay4.example.com,107
+21,Marayoor Plantation Homestay,Homestay,1000.0,4.6,"Idukki, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.marayoorstay5.example.com,108
+22,Kanthalloor Palace & Spa,Luxury Resort,2100.0,4.8,"Idukki, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kanthalloorstay1.example.com,109
+22,Kanthalloor Valley Resort,Resort,1320.0,4.5,"Idukki, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kanthalloorstay2.example.com,110
+22,Kanthalloor Grand Hotel,Hotel,1000.0,4.2,"Idukki, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kanthalloorstay3.example.com,111
+22,The Kanthalloor Heritage Inn,Boutique Hotel,1080.0,4.4,"Idukki, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kanthalloorstay4.example.com,112
+22,Kanthalloor Plantation Homestay,Homestay,1000.0,4.6,"Idukki, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kanthalloorstay5.example.com,113
+23,Peermade Palace & Spa,Luxury Resort,2100.0,4.8,"Idukki, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.peermadestay1.example.com,114
+23,Peermade Valley Resort,Resort,1320.0,4.5,"Idukki, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.peermadestay2.example.com,115
+23,Peermade Grand Hotel,Hotel,1000.0,4.2,"Idukki, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.peermadestay3.example.com,116
+23,The Peermade Heritage Inn,Boutique Hotel,1080.0,4.4,"Idukki, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.peermadestay4.example.com,117
+23,Peermade Plantation Homestay,Homestay,1000.0,4.6,"Idukki, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.peermadestay5.example.com,118
+24,Pathanamthitta Palace & Spa,Luxury Resort,1750.0,4.8,"Pathanamthitta, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.pathanamthittastay1.example.com,119
+24,Pathanamthitta Valley Resort,Resort,1100.0,4.5,"Pathanamthitta, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.pathanamthittastay2.example.com,120
+24,Pathanamthitta Grand Hotel,Hotel,1000.0,4.2,"Pathanamthitta, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.pathanamthittastay3.example.com,121
+24,The Pathanamthitta Heritage Inn,Boutique Hotel,1000.0,4.4,"Pathanamthitta, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.pathanamthittastay4.example.com,122
+24,Pathanamthitta Plantation Homestay,Homestay,1000.0,4.6,"Pathanamthitta, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.pathanamthittastay5.example.com,123
+25,Gavi Palace & Spa,Luxury Resort,2450.0,4.8,"Pathanamthitta, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.gavistay1.example.com,124
+25,Gavi Valley Resort,Resort,1540.0,4.5,"Pathanamthitta, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.gavistay2.example.com,125
+25,Gavi Grand Hotel,Hotel,1000.0,4.2,"Pathanamthitta, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.gavistay3.example.com,126
+25,The Gavi Heritage Inn,Boutique Hotel,1260.0,4.4,"Pathanamthitta, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.gavistay4.example.com,127
+25,Gavi Plantation Homestay,Homestay,1000.0,4.6,"Pathanamthitta, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.gavistay5.example.com,128
+26,Konni Palace & Spa,Luxury Resort,1750.0,4.8,"Pathanamthitta, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.konnistay1.example.com,129
+26,Konni Valley Resort,Resort,1100.0,4.5,"Pathanamthitta, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.konnistay2.example.com,130
+26,Konni Grand Hotel,Hotel,1000.0,4.2,"Pathanamthitta, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.konnistay3.example.com,131
+26,The Konni Heritage Inn,Boutique Hotel,1000.0,4.4,"Pathanamthitta, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.konnistay4.example.com,132
+26,Konni Plantation Homestay,Homestay,1000.0,4.6,"Pathanamthitta, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.konnistay5.example.com,133
+27,Guruvayur Palace & Spa,Luxury Resort,1750.0,4.8,"Thrissur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.guruvayurstay1.example.com,134
+27,Guruvayur Valley Resort,Resort,1100.0,4.5,"Thrissur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.guruvayurstay2.example.com,135
+27,Guruvayur Grand Hotel,Hotel,1000.0,4.2,"Thrissur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.guruvayurstay3.example.com,136
+27,The Guruvayur Heritage Inn,Boutique Hotel,1000.0,4.4,"Thrissur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.guruvayurstay4.example.com,137
+27,Guruvayur Plantation Homestay,Homestay,1000.0,4.6,"Thrissur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.guruvayurstay5.example.com,138
+28,Thrissur Palace & Spa,Luxury Resort,2100.0,4.8,"Thrissur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.thrissurstay1.example.com,139
+28,Thrissur Valley Resort,Resort,1320.0,4.5,"Thrissur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.thrissurstay2.example.com,140
+28,Thrissur Grand Hotel,Hotel,1000.0,4.2,"Thrissur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.thrissurstay3.example.com,141
+28,The Thrissur Heritage Inn,Boutique Hotel,1080.0,4.4,"Thrissur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.thrissurstay4.example.com,142
+28,Thrissur Plantation Homestay,Homestay,1000.0,4.6,"Thrissur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.thrissurstay5.example.com,143
+29,Athirappilly Palace & Spa,Luxury Resort,2100.0,4.8,"Thrissur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.athirappillystay1.example.com,144
+29,Athirappilly Valley Resort,Resort,1320.0,4.5,"Thrissur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.athirappillystay2.example.com,145
+29,Athirappilly Grand Hotel,Hotel,1000.0,4.2,"Thrissur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.athirappillystay3.example.com,146
+29,The Athirappilly Heritage Inn,Boutique Hotel,1080.0,4.4,"Thrissur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.athirappillystay4.example.com,147
+29,Athirappilly Plantation Homestay,Homestay,1000.0,4.6,"Thrissur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.athirappillystay5.example.com,148
+30,Chavakkad Palace & Spa,Luxury Resort,1750.0,4.8,"Thrissur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.chavakkadstay1.example.com,149
+30,Chavakkad Valley Resort,Resort,1100.0,4.5,"Thrissur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.chavakkadstay2.example.com,150
+30,Chavakkad Grand Hotel,Hotel,1000.0,4.2,"Thrissur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.chavakkadstay3.example.com,151
+30,The Chavakkad Heritage Inn,Boutique Hotel,1000.0,4.4,"Thrissur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.chavakkadstay4.example.com,152
+30,Chavakkad Plantation Homestay,Homestay,1000.0,4.6,"Thrissur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.chavakkadstay5.example.com,153
+31,Palakkad Palace & Spa,Luxury Resort,1750.0,4.8,"Palakkad, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.palakkadstay1.example.com,154
+31,Palakkad Valley Resort,Resort,1100.0,4.5,"Palakkad, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.palakkadstay2.example.com,155
+31,Palakkad Grand Hotel,Hotel,1000.0,4.2,"Palakkad, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.palakkadstay3.example.com,156
+31,The Palakkad Heritage Inn,Boutique Hotel,1000.0,4.4,"Palakkad, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.palakkadstay4.example.com,157
+31,Palakkad Plantation Homestay,Homestay,1000.0,4.6,"Palakkad, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.palakkadstay5.example.com,158
+32,Nelliyampathy Palace & Spa,Luxury Resort,2100.0,4.8,"Palakkad, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.nelliyampathystay1.example.com,159
+32,Nelliyampathy Valley Resort,Resort,1320.0,4.5,"Palakkad, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.nelliyampathystay2.example.com,160
+32,Nelliyampathy Grand Hotel,Hotel,1000.0,4.2,"Palakkad, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.nelliyampathystay3.example.com,161
+32,The Nelliyampathy Heritage Inn,Boutique Hotel,1080.0,4.4,"Palakkad, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.nelliyampathystay4.example.com,162
+32,Nelliyampathy Plantation Homestay,Homestay,1000.0,4.6,"Palakkad, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.nelliyampathystay5.example.com,163
+33,Silent Valley Palace & Spa,Luxury Resort,2450.0,4.8,"Palakkad, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.silentvalleystay1.example.com,164
+33,Silent Valley Valley Resort,Resort,1540.0,4.5,"Palakkad, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.silentvalleystay2.example.com,165
+33,Silent Valley Grand Hotel,Hotel,1000.0,4.2,"Palakkad, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.silentvalleystay3.example.com,166
+33,The Silent Valley Heritage Inn,Boutique Hotel,1260.0,4.4,"Palakkad, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.silentvalleystay4.example.com,167
+33,Silent Valley Plantation Homestay,Homestay,1000.0,4.6,"Palakkad, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.silentvalleystay5.example.com,168
+34,Parambikulam Palace & Spa,Luxury Resort,2450.0,4.8,"Palakkad, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.parambikulamstay1.example.com,169
+34,Parambikulam Valley Resort,Resort,1540.0,4.5,"Palakkad, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.parambikulamstay2.example.com,170
+34,Parambikulam Grand Hotel,Hotel,1000.0,4.2,"Palakkad, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.parambikulamstay3.example.com,171
+34,The Parambikulam Heritage Inn,Boutique Hotel,1260.0,4.4,"Palakkad, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.parambikulamstay4.example.com,172
+34,Parambikulam Plantation Homestay,Homestay,1000.0,4.6,"Palakkad, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.parambikulamstay5.example.com,173
+35,Nilambur Palace & Spa,Luxury Resort,1750.0,4.8,"Malappuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.nilamburstay1.example.com,174
+35,Nilambur Valley Resort,Resort,1100.0,4.5,"Malappuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.nilamburstay2.example.com,175
+35,Nilambur Grand Hotel,Hotel,1000.0,4.2,"Malappuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.nilamburstay3.example.com,176
+35,The Nilambur Heritage Inn,Boutique Hotel,1000.0,4.4,"Malappuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.nilamburstay4.example.com,177
+35,Nilambur Plantation Homestay,Homestay,1000.0,4.6,"Malappuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.nilamburstay5.example.com,178
+36,Kottakkal Palace & Spa,Luxury Resort,1750.0,4.8,"Malappuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kottakkalstay1.example.com,179
+36,Kottakkal Valley Resort,Resort,1100.0,4.5,"Malappuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kottakkalstay2.example.com,180
+36,Kottakkal Grand Hotel,Hotel,1000.0,4.2,"Malappuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kottakkalstay3.example.com,181
+36,The Kottakkal Heritage Inn,Boutique Hotel,1000.0,4.4,"Malappuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kottakkalstay4.example.com,182
+36,Kottakkal Plantation Homestay,Homestay,1000.0,4.6,"Malappuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kottakkalstay5.example.com,183
+37,Kozhikode Palace & Spa,Luxury Resort,2100.0,4.8,"Kozhikode, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kozhikodestay1.example.com,184
+37,Kozhikode Valley Resort,Resort,1320.0,4.5,"Kozhikode, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kozhikodestay2.example.com,185
+37,Kozhikode Grand Hotel,Hotel,1000.0,4.2,"Kozhikode, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kozhikodestay3.example.com,186
+37,The Kozhikode Heritage Inn,Boutique Hotel,1080.0,4.4,"Kozhikode, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kozhikodestay4.example.com,187
+37,Kozhikode Plantation Homestay,Homestay,1000.0,4.6,"Kozhikode, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kozhikodestay5.example.com,188
+38,Kappad Palace & Spa,Luxury Resort,1400.0,4.8,"Kozhikode, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kappadstay1.example.com,189
+38,Kappad Valley Resort,Resort,1000.0,4.5,"Kozhikode, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kappadstay2.example.com,190
+38,Kappad Grand Hotel,Hotel,1000.0,4.2,"Kozhikode, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kappadstay3.example.com,191
+38,The Kappad Heritage Inn,Boutique Hotel,1000.0,4.4,"Kozhikode, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kappadstay4.example.com,192
+38,Kappad Plantation Homestay,Homestay,1000.0,4.6,"Kozhikode, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kappadstay5.example.com,193
+39,Beypore Palace & Spa,Luxury Resort,1400.0,4.8,"Kozhikode, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.beyporestay1.example.com,194
+39,Beypore Valley Resort,Resort,1000.0,4.5,"Kozhikode, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.beyporestay2.example.com,195
+39,Beypore Grand Hotel,Hotel,1000.0,4.2,"Kozhikode, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.beyporestay3.example.com,196
+39,The Beypore Heritage Inn,Boutique Hotel,1000.0,4.4,"Kozhikode, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.beyporestay4.example.com,197
+39,Beypore Plantation Homestay,Homestay,1000.0,4.6,"Kozhikode, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.beyporestay5.example.com,198
+40,Thusharagiri Palace & Spa,Luxury Resort,1750.0,4.8,"Kozhikode, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.thusharagiristay1.example.com,199
+40,Thusharagiri Valley Resort,Resort,1100.0,4.5,"Kozhikode, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.thusharagiristay2.example.com,200
+40,Thusharagiri Grand Hotel,Hotel,1000.0,4.2,"Kozhikode, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.thusharagiristay3.example.com,201
+40,The Thusharagiri Heritage Inn,Boutique Hotel,1000.0,4.4,"Kozhikode, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.thusharagiristay4.example.com,202
+40,Thusharagiri Plantation Homestay,Homestay,1000.0,4.6,"Kozhikode, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.thusharagiristay5.example.com,203
+41,Kannur Palace & Spa,Luxury Resort,2100.0,4.8,"Kannur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kannurstay1.example.com,204
+41,Kannur Valley Resort,Resort,1320.0,4.5,"Kannur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kannurstay2.example.com,205
+41,Kannur Grand Hotel,Hotel,1000.0,4.2,"Kannur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kannurstay3.example.com,206
+41,The Kannur Heritage Inn,Boutique Hotel,1080.0,4.4,"Kannur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kannurstay4.example.com,207
+41,Kannur Plantation Homestay,Homestay,1000.0,4.6,"Kannur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kannurstay5.example.com,208
+42,Muzhappilangad Palace & Spa,Luxury Resort,1750.0,4.8,"Kannur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.muzhappilangadstay1.example.com,209
+42,Muzhappilangad Valley Resort,Resort,1100.0,4.5,"Kannur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.muzhappilangadstay2.example.com,210
+42,Muzhappilangad Grand Hotel,Hotel,1000.0,4.2,"Kannur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.muzhappilangadstay3.example.com,211
+42,The Muzhappilangad Heritage Inn,Boutique Hotel,1000.0,4.4,"Kannur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.muzhappilangadstay4.example.com,212
+42,Muzhappilangad Plantation Homestay,Homestay,1000.0,4.6,"Kannur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.muzhappilangadstay5.example.com,213
+43,Thalassery Palace & Spa,Luxury Resort,1750.0,4.8,"Kannur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.thalasserystay1.example.com,214
+43,Thalassery Valley Resort,Resort,1100.0,4.5,"Kannur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.thalasserystay2.example.com,215
+43,Thalassery Grand Hotel,Hotel,1000.0,4.2,"Kannur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.thalasserystay3.example.com,216
+43,The Thalassery Heritage Inn,Boutique Hotel,1000.0,4.4,"Kannur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.thalasserystay4.example.com,217
+43,Thalassery Plantation Homestay,Homestay,1000.0,4.6,"Kannur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.thalasserystay5.example.com,218
+44,Paithalmala Palace & Spa,Luxury Resort,1750.0,4.8,"Kannur, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.paithalmalastay1.example.com,219
+44,Paithalmala Valley Resort,Resort,1100.0,4.5,"Kannur, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.paithalmalastay2.example.com,220
+44,Paithalmala Grand Hotel,Hotel,1000.0,4.2,"Kannur, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.paithalmalastay3.example.com,221
+44,The Paithalmala Heritage Inn,Boutique Hotel,1000.0,4.4,"Kannur, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.paithalmalastay4.example.com,222
+44,Paithalmala Plantation Homestay,Homestay,1000.0,4.6,"Kannur, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.paithalmalastay5.example.com,223
+45,Kasaragod Palace & Spa,Luxury Resort,1750.0,4.8,"Kasaragod, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kasaragodstay1.example.com,224
+45,Kasaragod Valley Resort,Resort,1100.0,4.5,"Kasaragod, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kasaragodstay2.example.com,225
+45,Kasaragod Grand Hotel,Hotel,1000.0,4.2,"Kasaragod, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kasaragodstay3.example.com,226
+45,The Kasaragod Heritage Inn,Boutique Hotel,1000.0,4.4,"Kasaragod, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kasaragodstay4.example.com,227
+45,Kasaragod Plantation Homestay,Homestay,1000.0,4.6,"Kasaragod, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kasaragodstay5.example.com,228
+46,Ranipuram Palace & Spa,Luxury Resort,1750.0,4.8,"Kasaragod, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.ranipuramstay1.example.com,229
+46,Ranipuram Valley Resort,Resort,1100.0,4.5,"Kasaragod, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.ranipuramstay2.example.com,230
+46,Ranipuram Grand Hotel,Hotel,1000.0,4.2,"Kasaragod, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.ranipuramstay3.example.com,231
+46,The Ranipuram Heritage Inn,Boutique Hotel,1000.0,4.4,"Kasaragod, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.ranipuramstay4.example.com,232
+46,Ranipuram Plantation Homestay,Homestay,1000.0,4.6,"Kasaragod, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.ranipuramstay5.example.com,233
+47,Nileshwaram Palace & Spa,Luxury Resort,1750.0,4.8,"Kasaragod, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.nileshwaramstay1.example.com,234
+47,Nileshwaram Valley Resort,Resort,1100.0,4.5,"Kasaragod, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.nileshwaramstay2.example.com,235
+47,Nileshwaram Grand Hotel,Hotel,1000.0,4.2,"Kasaragod, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.nileshwaramstay3.example.com,236
+47,The Nileshwaram Heritage Inn,Boutique Hotel,1000.0,4.4,"Kasaragod, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.nileshwaramstay4.example.com,237
+47,Nileshwaram Plantation Homestay,Homestay,1000.0,4.6,"Kasaragod, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.nileshwaramstay5.example.com,238
+48,Kodikuthimala Palace & Spa,Luxury Resort,1400.0,4.8,"Malappuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.kodikuthimalastay1.example.com,239
+48,Kodikuthimala Valley Resort,Resort,1000.0,4.5,"Malappuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.kodikuthimalastay2.example.com,240
+48,Kodikuthimala Grand Hotel,Hotel,1000.0,4.2,"Malappuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.kodikuthimalastay3.example.com,241
+48,The Kodikuthimala Heritage Inn,Boutique Hotel,1000.0,4.4,"Malappuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.kodikuthimalastay4.example.com,242
+48,Kodikuthimala Plantation Homestay,Homestay,1000.0,4.6,"Malappuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.kodikuthimalastay5.example.com,243
+49,Attappady Palace & Spa,Luxury Resort,1750.0,4.8,"Palakkad, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.attappadystay1.example.com,244
+49,Attappady Valley Resort,Resort,1100.0,4.5,"Palakkad, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.attappadystay2.example.com,245
+49,Attappady Grand Hotel,Hotel,1000.0,4.2,"Palakkad, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.attappadystay3.example.com,246
+49,The Attappady Heritage Inn,Boutique Hotel,1000.0,4.4,"Palakkad, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.attappadystay4.example.com,247
+49,Attappady Plantation Homestay,Homestay,1000.0,4.6,"Palakkad, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.attappadystay5.example.com,248
+50,Tanur Palace & Spa,Luxury Resort,1400.0,4.8,"Malappuram, Kerala",20,8,"Pool, Ayurvedic Spa, Fine Dining, Free Wifi, Helipad",Luxury Villa,https://www.tanurstay1.example.com,249
+50,Tanur Valley Resort,Resort,1000.0,4.5,"Malappuram, Kerala",25,11,"Free Wifi, Swimming Pool, Restaurant, Spa, Garden",Deluxe Cottage,https://www.tanurstay2.example.com,250
+50,Tanur Grand Hotel,Hotel,1000.0,4.2,"Malappuram, Kerala",30,14,"Free Wifi, LED TV, Room Service, Air Conditioning, Restaurant",Executive AC Room,https://www.tanurstay3.example.com,251
+50,The Tanur Heritage Inn,Boutique Hotel,1000.0,4.4,"Malappuram, Kerala",35,17,"Cultural decor, Wifi, Cafe, Travel Desk",Heritage Suite,https://www.tanurstay4.example.com,252
+50,Tanur Plantation Homestay,Homestay,1000.0,4.6,"Malappuram, Kerala",40,20,"Home Cooked Meals, Garden, Free Wifi, Parking",Standard Double Room,https://www.tanurstay5.example.com,253

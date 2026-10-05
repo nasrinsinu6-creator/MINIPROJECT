@@ -1,0 +1,251 @@
+destination_id,name,cuisine,avg_cost,rating,address,id
+1,Rapsy Restaurant,Kerala & North Indian,250.0,4.4,Munnar Main Market,1
+1,Saravana Bhavan,South Indian Vegetarian,150.0,4.2,Munnar Town,2
+1,Guru's Hotel,Kerala Parotta & Beef Fry,200.0,4.5,"AM Road, Munnar",3
+1,Eastend Restaurant,Multi-Cuisine & Barbecue,550.0,4.6,"Club Road, Munnar",4
+1,Munnar Tea Garden Cafe,Highland Tea & Continental Snacks,180.0,4.3,Old Munnar,5
+2,1980's A Nostalgic Restaurant,Traditional Kerala Meals,300.0,4.6,Kalpetta Bypass,6
+2,Wilton Hotel & Restaurant,Malabar Biriyani & Arabian,350.0,4.3,Sultan Bathery Road,7
+2,Udupi Pure Veg,South Indian Tiffin & Meals,180.0,4.2,Kalpetta Town,8
+2,Jubilee Restaurant,Malabar Grill & Seafood,400.0,4.4,Sulthan Bathery,9
+2,Chubby Cat Cafe,Coffee & Continental Bakery,250.0,4.5,"Vythiri, Wayanad",10
+3,Cassia Restaurant,Seafood & Continental,450.0,4.5,"Beach Road, Alleppey",11
+3,Thaff Delicacy,Kerala Seafood & Biriyani,350.0,4.4,"General Hospital Junction, Alleppey",12
+3,Harbour Restaurant,Fresh Fish Fry & Grill,500.0,4.3,"Beach Road, Alleppey",13
+3,Brothers Hotel Restaurant,Traditional Sadya & Seafood,280.0,4.6,"Near KSRTC Bus Stand, Alleppey",14
+3,Kuttanad Duck & Fish Mess,Kuttanad Special Duck Roast & Pearlspot Fry,320.0,4.7,"AC Road, Alleppey",15
+4,Darjeeling Cafe,"Tibetan, Continental & Seafood",500.0,4.7,Varkala Cliff,16
+4,Clafouti Restaurant,Seafood & Italian,550.0,4.5,"North Cliff, Varkala",17
+4,Abhiba Cafe,Vegan & Healthy Smoothie Bowls,350.0,4.6,"Middle Cliff, Varkala",18
+4,God's Own Country Kitchen,Traditional Kerala Seafood,400.0,4.4,"North Cliff Beach, Varkala",19
+4,InDa Cafe,European Breakfast & Fresh Juices,300.0,4.5,"Helipad Road, Varkala",20
+5,Kashi Art Cafe,Cafe & European Breakfast,400.0,4.6,"Burgher Street, Fort Kochi",21
+5,Oceanos Restaurant,Kerala Seafood Specialty,600.0,4.5,"Elphinstone Road, Kochi",22
+5,Dal Roti,North Indian Thali & Kathi Rolls,300.0,4.4,"Lilly Street, Fort Kochi",23
+5,Chef Pillai Kochi,Modern Fusion Kerala Seafood,950.0,4.8,"Crowne Plaza, Maradu, Kochi",24
+5,Seagull Restaurant & Pub,Waterfront Seafood & Drinks,700.0,4.3,"Calvathy Road, Fort Kochi",25
+37,Paragon Restaurant Calicut,Legendary Malabar Biriyani & Seafood,450.0,4.9,"Kannur Road, Kozhikode",26
+37,Rahmath Hotel,Authentic Beef Biriyani & Porotta,250.0,4.8,"Aravind Ghosh Road, Kozhikode",27
+37,Topform Restaurant,Malabar Special Meals & Biriyani,220.0,4.5,"Mavoor Road, Kozhikode",28
+37,M-Grill by Paragon,"Continental, Steak & Pan-Asian",800.0,4.7,"Focus Mall, Kozhikode",29
+37,Zains Hotel,Traditional Malabar Snacks & Dishes,200.0,4.6,"Convent Road, Kozhikode",30
+6,Thekkady Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kumily, Kerala",31
+6,Thekkady Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kumily, Kerala",32
+6,Thekkady Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kumily, Kerala",33
+6,Thekkady Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kumily, Kerala",34
+6,Hotel Saravana Bhavan Thekkady,Pure Veg South Indian Tiffin,260.0,4.3,"Kumily, Kerala",35
+7,Kovalam Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thiruvananthapuram, Kerala",36
+7,Kovalam Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thiruvananthapuram, Kerala",37
+7,Kovalam Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thiruvananthapuram, Kerala",38
+7,Kovalam Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thiruvananthapuram, Kerala",39
+7,Hotel Saravana Bhavan Kovalam,Pure Veg South Indian Tiffin,260.0,4.3,"Thiruvananthapuram, Kerala",40
+8,Kumarakom Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kottayam, Kerala",41
+8,Kumarakom Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kottayam, Kerala",42
+8,Kumarakom Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kottayam, Kerala",43
+8,Kumarakom Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kottayam, Kerala",44
+8,Hotel Saravana Bhavan Kumarakom,Pure Veg South Indian Tiffin,260.0,4.3,"Kottayam, Kerala",45
+9,Bekal Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kasaragod, Kerala",46
+9,Bekal Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kasaragod, Kerala",47
+9,Bekal Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kasaragod, Kerala",48
+9,Bekal Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kasaragod, Kerala",49
+9,Hotel Saravana Bhavan Bekal,Pure Veg South Indian Tiffin,260.0,4.3,"Kasaragod, Kerala",50
+10,Vagamon Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Idukki, Kerala",51
+10,Vagamon Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Idukki, Kerala",52
+10,Vagamon Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Idukki, Kerala",53
+10,Vagamon Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Idukki, Kerala",54
+10,Hotel Saravana Bhavan Vagamon,Pure Veg South Indian Tiffin,260.0,4.3,"Idukki, Kerala",55
+11,Thiruvananthapuram Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thiruvananthapuram, Kerala",56
+11,Thiruvananthapuram Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thiruvananthapuram, Kerala",57
+11,Thiruvananthapuram Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thiruvananthapuram, Kerala",58
+11,Thiruvananthapuram Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thiruvananthapuram, Kerala",59
+11,Hotel Saravana Bhavan Thiruvananthapuram,Pure Veg South Indian Tiffin,260.0,4.3,"Thiruvananthapuram, Kerala",60
+12,Poovar Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thiruvananthapuram, Kerala",61
+12,Poovar Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thiruvananthapuram, Kerala",62
+12,Poovar Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thiruvananthapuram, Kerala",63
+12,Poovar Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thiruvananthapuram, Kerala",64
+12,Hotel Saravana Bhavan Poovar,Pure Veg South Indian Tiffin,260.0,4.3,"Thiruvananthapuram, Kerala",65
+13,Ponmudi Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thiruvananthapuram, Kerala",66
+13,Ponmudi Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thiruvananthapuram, Kerala",67
+13,Ponmudi Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thiruvananthapuram, Kerala",68
+13,Ponmudi Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thiruvananthapuram, Kerala",69
+13,Hotel Saravana Bhavan Ponmudi,Pure Veg South Indian Tiffin,260.0,4.3,"Thiruvananthapuram, Kerala",70
+14,Kollam Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kollam, Kerala",71
+14,Kollam Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kollam, Kerala",72
+14,Kollam Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kollam, Kerala",73
+14,Kollam Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kollam, Kerala",74
+14,Hotel Saravana Bhavan Kollam,Pure Veg South Indian Tiffin,260.0,4.3,"Kollam, Kerala",75
+15,Munroe Island Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kollam, Kerala",76
+15,Munroe Island Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kollam, Kerala",77
+15,Munroe Island Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kollam, Kerala",78
+15,Munroe Island Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kollam, Kerala",79
+15,Hotel Saravana Bhavan Munroe Island,Pure Veg South Indian Tiffin,260.0,4.3,"Kollam, Kerala",80
+16,Thenmala Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kollam, Kerala",81
+16,Thenmala Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kollam, Kerala",82
+16,Thenmala Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kollam, Kerala",83
+16,Thenmala Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kollam, Kerala",84
+16,Hotel Saravana Bhavan Thenmala,Pure Veg South Indian Tiffin,260.0,4.3,"Kollam, Kerala",85
+17,Kottayam Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kottayam, Kerala",86
+17,Kottayam Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kottayam, Kerala",87
+17,Kottayam Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kottayam, Kerala",88
+17,Kottayam Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kottayam, Kerala",89
+17,Hotel Saravana Bhavan Kottayam,Pure Veg South Indian Tiffin,260.0,4.3,"Kottayam, Kerala",90
+18,Vaikom Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kottayam, Kerala",91
+18,Vaikom Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kottayam, Kerala",92
+18,Vaikom Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kottayam, Kerala",93
+18,Vaikom Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kottayam, Kerala",94
+18,Hotel Saravana Bhavan Vaikom,Pure Veg South Indian Tiffin,260.0,4.3,"Kottayam, Kerala",95
+19,Idukki Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Idukki, Kerala",96
+19,Idukki Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Idukki, Kerala",97
+19,Idukki Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Idukki, Kerala",98
+19,Idukki Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Idukki, Kerala",99
+19,Hotel Saravana Bhavan Idukki,Pure Veg South Indian Tiffin,260.0,4.3,"Idukki, Kerala",100
+20,Ramakkalmedu Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Idukki, Kerala",101
+20,Ramakkalmedu Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Idukki, Kerala",102
+20,Ramakkalmedu Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Idukki, Kerala",103
+20,Ramakkalmedu Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Idukki, Kerala",104
+20,Hotel Saravana Bhavan Ramakkalmedu,Pure Veg South Indian Tiffin,260.0,4.3,"Idukki, Kerala",105
+21,Marayoor Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Idukki, Kerala",106
+21,Marayoor Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Idukki, Kerala",107
+21,Marayoor Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Idukki, Kerala",108
+21,Marayoor Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Idukki, Kerala",109
+21,Hotel Saravana Bhavan Marayoor,Pure Veg South Indian Tiffin,260.0,4.3,"Idukki, Kerala",110
+22,Kanthalloor Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Idukki, Kerala",111
+22,Kanthalloor Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Idukki, Kerala",112
+22,Kanthalloor Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Idukki, Kerala",113
+22,Kanthalloor Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Idukki, Kerala",114
+22,Hotel Saravana Bhavan Kanthalloor,Pure Veg South Indian Tiffin,260.0,4.3,"Idukki, Kerala",115
+23,Peermade Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Idukki, Kerala",116
+23,Peermade Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Idukki, Kerala",117
+23,Peermade Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Idukki, Kerala",118
+23,Peermade Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Idukki, Kerala",119
+23,Hotel Saravana Bhavan Peermade,Pure Veg South Indian Tiffin,260.0,4.3,"Idukki, Kerala",120
+24,Pathanamthitta Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Pathanamthitta, Kerala",121
+24,Pathanamthitta Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Pathanamthitta, Kerala",122
+24,Pathanamthitta Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Pathanamthitta, Kerala",123
+24,Pathanamthitta Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Pathanamthitta, Kerala",124
+24,Hotel Saravana Bhavan Pathanamthitta,Pure Veg South Indian Tiffin,260.0,4.3,"Pathanamthitta, Kerala",125
+25,Gavi Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Pathanamthitta, Kerala",126
+25,Gavi Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Pathanamthitta, Kerala",127
+25,Gavi Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Pathanamthitta, Kerala",128
+25,Gavi Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Pathanamthitta, Kerala",129
+25,Hotel Saravana Bhavan Gavi,Pure Veg South Indian Tiffin,260.0,4.3,"Pathanamthitta, Kerala",130
+26,Konni Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Pathanamthitta, Kerala",131
+26,Konni Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Pathanamthitta, Kerala",132
+26,Konni Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Pathanamthitta, Kerala",133
+26,Konni Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Pathanamthitta, Kerala",134
+26,Hotel Saravana Bhavan Konni,Pure Veg South Indian Tiffin,260.0,4.3,"Pathanamthitta, Kerala",135
+27,Guruvayur Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thrissur, Kerala",136
+27,Guruvayur Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thrissur, Kerala",137
+27,Guruvayur Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thrissur, Kerala",138
+27,Guruvayur Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thrissur, Kerala",139
+27,Hotel Saravana Bhavan Guruvayur,Pure Veg South Indian Tiffin,260.0,4.3,"Thrissur, Kerala",140
+28,Thrissur Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thrissur, Kerala",141
+28,Thrissur Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thrissur, Kerala",142
+28,Thrissur Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thrissur, Kerala",143
+28,Thrissur Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thrissur, Kerala",144
+28,Hotel Saravana Bhavan Thrissur,Pure Veg South Indian Tiffin,260.0,4.3,"Thrissur, Kerala",145
+29,Athirappilly Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thrissur, Kerala",146
+29,Athirappilly Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thrissur, Kerala",147
+29,Athirappilly Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thrissur, Kerala",148
+29,Athirappilly Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thrissur, Kerala",149
+29,Hotel Saravana Bhavan Athirappilly,Pure Veg South Indian Tiffin,260.0,4.3,"Thrissur, Kerala",150
+30,Chavakkad Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Thrissur, Kerala",151
+30,Chavakkad Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Thrissur, Kerala",152
+30,Chavakkad Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Thrissur, Kerala",153
+30,Chavakkad Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Thrissur, Kerala",154
+30,Hotel Saravana Bhavan Chavakkad,Pure Veg South Indian Tiffin,260.0,4.3,"Thrissur, Kerala",155
+31,Palakkad Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Palakkad, Kerala",156
+31,Palakkad Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Palakkad, Kerala",157
+31,Palakkad Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Palakkad, Kerala",158
+31,Palakkad Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Palakkad, Kerala",159
+31,Hotel Saravana Bhavan Palakkad,Pure Veg South Indian Tiffin,260.0,4.3,"Palakkad, Kerala",160
+32,Nelliyampathy Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Palakkad, Kerala",161
+32,Nelliyampathy Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Palakkad, Kerala",162
+32,Nelliyampathy Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Palakkad, Kerala",163
+32,Nelliyampathy Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Palakkad, Kerala",164
+32,Hotel Saravana Bhavan Nelliyampathy,Pure Veg South Indian Tiffin,260.0,4.3,"Palakkad, Kerala",165
+33,Silent Valley Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Palakkad, Kerala",166
+33,Silent Valley Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Palakkad, Kerala",167
+33,Silent Valley Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Palakkad, Kerala",168
+33,Silent Valley Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Palakkad, Kerala",169
+33,Hotel Saravana Bhavan Silent Valley,Pure Veg South Indian Tiffin,260.0,4.3,"Palakkad, Kerala",170
+34,Parambikulam Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Palakkad, Kerala",171
+34,Parambikulam Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Palakkad, Kerala",172
+34,Parambikulam Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Palakkad, Kerala",173
+34,Parambikulam Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Palakkad, Kerala",174
+34,Hotel Saravana Bhavan Parambikulam,Pure Veg South Indian Tiffin,260.0,4.3,"Palakkad, Kerala",175
+35,Nilambur Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Malappuram, Kerala",176
+35,Nilambur Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Malappuram, Kerala",177
+35,Nilambur Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Malappuram, Kerala",178
+35,Nilambur Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Malappuram, Kerala",179
+35,Hotel Saravana Bhavan Nilambur,Pure Veg South Indian Tiffin,260.0,4.3,"Malappuram, Kerala",180
+36,Kottakkal Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Malappuram, Kerala",181
+36,Kottakkal Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Malappuram, Kerala",182
+36,Kottakkal Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Malappuram, Kerala",183
+36,Kottakkal Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Malappuram, Kerala",184
+36,Hotel Saravana Bhavan Kottakkal,Pure Veg South Indian Tiffin,260.0,4.3,"Malappuram, Kerala",185
+38,Kappad Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kozhikode, Kerala",186
+38,Kappad Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kozhikode, Kerala",187
+38,Kappad Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kozhikode, Kerala",188
+38,Kappad Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kozhikode, Kerala",189
+38,Hotel Saravana Bhavan Kappad,Pure Veg South Indian Tiffin,260.0,4.3,"Kozhikode, Kerala",190
+39,Beypore Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kozhikode, Kerala",191
+39,Beypore Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kozhikode, Kerala",192
+39,Beypore Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kozhikode, Kerala",193
+39,Beypore Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kozhikode, Kerala",194
+39,Hotel Saravana Bhavan Beypore,Pure Veg South Indian Tiffin,260.0,4.3,"Kozhikode, Kerala",195
+40,Thusharagiri Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kozhikode, Kerala",196
+40,Thusharagiri Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kozhikode, Kerala",197
+40,Thusharagiri Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kozhikode, Kerala",198
+40,Thusharagiri Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kozhikode, Kerala",199
+40,Hotel Saravana Bhavan Thusharagiri,Pure Veg South Indian Tiffin,260.0,4.3,"Kozhikode, Kerala",200
+41,Kannur Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kannur, Kerala",201
+41,Kannur Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kannur, Kerala",202
+41,Kannur Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kannur, Kerala",203
+41,Kannur Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kannur, Kerala",204
+41,Hotel Saravana Bhavan Kannur,Pure Veg South Indian Tiffin,260.0,4.3,"Kannur, Kerala",205
+42,Muzhappilangad Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kannur, Kerala",206
+42,Muzhappilangad Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kannur, Kerala",207
+42,Muzhappilangad Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kannur, Kerala",208
+42,Muzhappilangad Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kannur, Kerala",209
+42,Hotel Saravana Bhavan Muzhappilangad,Pure Veg South Indian Tiffin,260.0,4.3,"Kannur, Kerala",210
+43,Thalassery Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kannur, Kerala",211
+43,Thalassery Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kannur, Kerala",212
+43,Thalassery Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kannur, Kerala",213
+43,Thalassery Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kannur, Kerala",214
+43,Hotel Saravana Bhavan Thalassery,Pure Veg South Indian Tiffin,260.0,4.3,"Kannur, Kerala",215
+44,Paithalmala Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kannur, Kerala",216
+44,Paithalmala Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kannur, Kerala",217
+44,Paithalmala Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kannur, Kerala",218
+44,Paithalmala Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kannur, Kerala",219
+44,Hotel Saravana Bhavan Paithalmala,Pure Veg South Indian Tiffin,260.0,4.3,"Kannur, Kerala",220
+45,Kasaragod Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kasaragod, Kerala",221
+45,Kasaragod Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kasaragod, Kerala",222
+45,Kasaragod Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kasaragod, Kerala",223
+45,Kasaragod Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kasaragod, Kerala",224
+45,Hotel Saravana Bhavan Kasaragod,Pure Veg South Indian Tiffin,260.0,4.3,"Kasaragod, Kerala",225
+46,Ranipuram Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kasaragod, Kerala",226
+46,Ranipuram Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kasaragod, Kerala",227
+46,Ranipuram Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kasaragod, Kerala",228
+46,Ranipuram Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kasaragod, Kerala",229
+46,Hotel Saravana Bhavan Ranipuram,Pure Veg South Indian Tiffin,260.0,4.3,"Kasaragod, Kerala",230
+47,Nileshwaram Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Kasaragod, Kerala",231
+47,Nileshwaram Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Kasaragod, Kerala",232
+47,Nileshwaram Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Kasaragod, Kerala",233
+47,Nileshwaram Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Kasaragod, Kerala",234
+47,Hotel Saravana Bhavan Nileshwaram,Pure Veg South Indian Tiffin,260.0,4.3,"Kasaragod, Kerala",235
+48,Kodikuthimala Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Malappuram, Kerala",236
+48,Kodikuthimala Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Malappuram, Kerala",237
+48,Kodikuthimala Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Malappuram, Kerala",238
+48,Kodikuthimala Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Malappuram, Kerala",239
+48,Hotel Saravana Bhavan Kodikuthimala,Pure Veg South Indian Tiffin,260.0,4.3,"Malappuram, Kerala",240
+49,Attappady Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Palakkad, Kerala",241
+49,Attappady Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Palakkad, Kerala",242
+49,Attappady Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Palakkad, Kerala",243
+49,Attappady Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Palakkad, Kerala",244
+49,Hotel Saravana Bhavan Attappady,Pure Veg South Indian Tiffin,260.0,4.3,"Palakkad, Kerala",245
+50,Tanur Kerala Kitchen,Traditional Kerala & Seafood,300.0,4.6,"Malappuram, Kerala",246
+50,Tanur Paradise Restaurant,Malabar Biriyani & South Indian,370.0,4.4,"Malappuram, Kerala",247
+50,Tanur Green Leaf Cafe,Multi-Cuisine & Cafe Drinks,290.0,4.3,"Malappuram, Kerala",248
+50,Tanur Royal Family Restaurant,"North Indian, Chinese & Arabian",460.0,4.5,"Malappuram, Kerala",249
+50,Hotel Saravana Bhavan Tanur,Pure Veg South Indian Tiffin,260.0,4.3,"Malappuram, Kerala",250
